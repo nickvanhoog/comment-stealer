@@ -9,4 +9,6 @@ whose links are a repost, a comment is left whose text is the
 highest-rated comment in all of the previous submissions with
 the same link.
 
+I use this with [/u/StealsTopComments](http://www.reddit.com/user/StealsTopComments/).
+
 \#springbreak2013

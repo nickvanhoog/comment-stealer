@@ -9,4 +9,4 @@ whose links are a repost, a comment is left whose text is the
 highest-rated comment in all of the previous submissions with
 the same link.
 
-#springbreak2013
+\#springbreak2013
